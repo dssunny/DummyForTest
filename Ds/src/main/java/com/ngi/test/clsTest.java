@@ -1,6 +1,6 @@
 package com.ngi.test;
 
-public class Dummy {
+public class clsTest {
 public static void main(String[] args) {
 	System.out.println("Hello");
 }
