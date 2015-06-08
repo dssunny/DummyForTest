@@ -1,2 +1,5 @@
 general:
   build_dir: Ds
+machine:
+  java:
+    version: openjdk7
